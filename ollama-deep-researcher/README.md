@@ -74,7 +74,7 @@ cd ollama-deep-researcher
 5. (Recommended) Create a virtual environment: Install `Python 3.11` (and add to PATH during installation). Restart your terminal to ensure Python is available, then create and activate a virtual environment:
 
 ```powershell
-python -m venv .venv
+python3 -m venv .venv #python3 -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
