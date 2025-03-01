@@ -42,7 +42,7 @@ The following environment variables are supported:
 
 5. (Recommended) Create a virtual environment:
 ```bash
-python -m venv .venv
+python3 -m venv .venv #python -m venv .venv
 source .venv/bin/activate
 ```
 
@@ -74,7 +74,7 @@ cd ollama-deep-researcher
 5. (Recommended) Create a virtual environment: Install `Python 3.11` (and add to PATH during installation). Restart your terminal to ensure Python is available, then create and activate a virtual environment:
 
 ```powershell
-python3 -m venv .venv #python3 -m venv .venv
+python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
