@@ -19,7 +19,7 @@ ollama pull deepseek-r1:8b
 3. Clone the repository:
 ```bash
 git clone https://github.com/johnfeng2023/final-research-assistant.git
-cd final-research-assistant/ollama-deep-web-yt-email-researcher
+cd final-research-assistant/ollama-deep-researcher
 
 ```
 
@@ -65,8 +65,8 @@ ollama pull deepseek-r1:8b
 
 3. Clone the repository:
 ```bash
-git clone https://github.com/langchain-ai/ollama-deep-researcher.git
-cd ollama-deep-researcher
+git clone https://github.com/johnfeng2023/final-research-assistant.git
+cd final-research-assistant/ollama-deep-researcher
 ```
  
 4. Select a web search tool, as above.
